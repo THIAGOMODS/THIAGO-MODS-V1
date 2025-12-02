@@ -6,10 +6,10 @@
         "Allowoffline": true
     },
     {
-        "device_id": "device2",
-        "key": "key12345",
+        "device_id": "ff879eebd03adb1e",
+        "key": "ff879eebd03adb1e",
         "expirydate": "10-06-2035",
-        "Allowoffline": false
+        "Allowoffline": true
     }
 ]
 [
