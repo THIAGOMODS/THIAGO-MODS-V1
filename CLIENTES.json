@@ -14,10 +14,10 @@
 ]
 [
     {
-        "device_id": "device3",
-        "key": "key12345",
+        "device_id": "f3e637cbc39ce077",
+        "key": "f3e637cbc39ce077",
         "expirydate": "10-12-2035",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {
         "device_id": "device4",
