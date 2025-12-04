@@ -10,9 +10,7 @@
         "key": "ff879eebd03adb1e",
         "expirydate": "10-06-2035",
         "Allowoffline": true
-    }
-]
-[
+    },
     {
         "device_id": "f3e637cbc39ce077",
         "key": "f3e637cbc39ce077",
@@ -24,9 +22,7 @@
         "key": "1759a8daa3a92dc6",
         "expirydate": "10-06-2035",
         "Allowoffline": true
-    }
-]
-[
+    },
     {
         "device_id": "device5",
         "key": "key12345",
@@ -38,9 +34,7 @@
         "key": "key67890",
         "expirydate": "10-06-2035",
         "Allowoffline": false
-    }
-]
-[
+    },
     {
         "device_id": "device7",
         "key": "key12345",
@@ -52,9 +46,7 @@
         "key": "key67890",
         "expirydate": "10-06-2035",
         "Allowoffline": false
-    }
-]
-[
+    },
     {
         "device_id": "device9",
         "key": "key12345",
